@@ -1,0 +1,7 @@
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/install.dir
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/list_install_components.dir
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/rebuild_cache.dir
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/tmxlite.dir
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/install/strip.dir
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/install/local.dir
+/home/Alice/Windows/Cours_2A/C++/csc_4526/tmxlite-master/tmxlite/CMakeFiles/edit_cache.dir

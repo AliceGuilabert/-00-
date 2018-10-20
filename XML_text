@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<Graphic1>
+	<Animation>
+		<Iddle path="" width="19" height="34" nbFrames="12"/>
+		<Run path="" width="21" height="33" nbFrames="8"/>
+		<Jump path="" width="" height="" nbFrames="" />
+	</Animation>
+	<Interaction>
+	</Interaction>   
+</Graphic1>
+<Graphic2>
+</Graphic2>

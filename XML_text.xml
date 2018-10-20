@@ -1,0 +1,30 @@
+<?xml version = "1.0"?>
+<Objects>
+	<Gemme name ="Gemme1" texteActivation="Tout devient ... graphique ?" x = "48"  y="160" />
+	<Gemme name ="Gemme2" texteActivation="Tout devient ... graphique ?" x = "1552"  y="192" />
+	<Gemme name ="Gemme3" texteActivation="Vous avez gagne !" x = "944"  y="58" />
+	<Door name ="Door1" texteActivation="La porte !" texte3="C'est en ASCII, je ne trouve pas la poignee !" texte2 = "C'est ouvert !" x = "784"  y="136" />
+	<TreasureChest name ="TreasureChest" texteActivation="Il s'ouvre !" texte2 = "C'est trop pixellise pour pouvoir l'ouvrir !" x = "944"  y="58" />
+</Objects>
+<Graphic1>
+	<Map path="../../map/Level2.tmx"/>
+	<Animation>
+		<Idle path="../../idleGraph1.png" width="19" height="34" nbFrames="12"/>
+		<Run path="../../runGraph1.png" width="21" height="33" nbFrames="7"/>
+		<Jump path="" width="" height="" nbFrames="" />
+	</Animation>  
+</Graphic1>
+<Graphic2>
+	<Map path="../../map/Level2D.tmx"/>
+	<Animation>
+		<Idle path="../../idleGraph2.png" width="19" height="34" nbFrames="12"/>
+		<Run path="../../runGraph2.png" width="21" height="33" nbFrames="8"/>
+	</Animation>
+</Graphic2>
+<Graphic3>
+	<Map path="../../map/LevelAscii.tmx"/>
+	<Animation>
+		<Idle path="../../idleGraph3.png" width="19" height="34" nbFrames="7"/>
+		<Run path="../../runGraph3.png" width="19" height="33" nbFrames="6"/>
+	</Animation>
+</Graphic3>

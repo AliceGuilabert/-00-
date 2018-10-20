@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="33" height="14" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="Jungle2" tilewidth="16" tileheight="16" tilecount="741" columns="39">
+  <image source="Jungle Asset Pack/Jungle Asset Pack/jungle tileset/jungle tileset.png" width="624" height="304"/>
+ </tileset>
+ <tileset firstgid="742" name="Collider" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../../Documents/GamesPlusJames - Unity 2D RPG/red-collision-box.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Fond" width="33" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAMXjEyMLxGwm8YidCExxxy9AsyMTAIIWFhJvLsFiNTPwhYAPVYQjHMHS9I8AulfkAHfFC3WJFoDrI7SNVLLSBIpTAAgXfAOHgPxB9ITFcWZIYfNiDKBElb4gMQnrC0DQpPWyC2GwA3UDM+h7IbYGlqFAxvAAAhBRRc
+  </data>
+ </layer>
+ <layer name="Calque de Tile 1" width="33" height="14">
+  <data encoding="base64" compression="zlib">
+   eJzF1E1OwkAYxvHpoOmme9QT8GFkwc5EPIASECML18oB0ERINIG1XABYgtALoQK65AK6xY//hCEgSVPajDrJL+nH2+nTdya1pRAp/OU4sITI4BAT7PlkOKLmGFnLXIYL5rpECQ7vPvPJUKbuCtcGM9wzV0NnSEv/PjSpa6G9ksFEf1SG8zX64DVM9EdlqPNuO2QGr/4EzeCssRa/Oeb7IexamMqg9sMtiv+YoR6gDzHEkUASu4YyOAH6kEMeJyjg1GCGDrY53sETnjHECGO84BU16m54roIq3vCu5wrbo/meVHOqHF08oIe+x7mr69X63clZ7qjOt28teqTuDTh/9PmuLb0nKyK4js4nEdHHrvx5b8r8H/jEl/qHcM1aemYDm3K2J78BieNINg==
+  </data>
+ </layer>
+ <layer name="Collider" width="33" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgeMbEQFcAsg+GkcVIUU9NtxDrBkJq6OEGbOFAjfAh1g2E9A+0GwY6HKgBRt1AnhuQ459a5QU5bsDHp4YbiMGk6CfVDeT6gZjyixR/DSQAAMdrR5k=
+  </data>
+ </layer>
+</map>
