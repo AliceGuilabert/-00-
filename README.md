@@ -1,13 +1,13 @@
 # -00-
-Projet scolaire de développement d'un mini jeu en C++ et à l'aide de la bibliotheque SFML
+Projet scolaire de développement d'un mini-jeu en C++ et à l'aide de la bibliothèque SFML
 
 
 ### Consigne :
-A partir du thème " -00- ", nous avons du pendant trois semaines, en parallèle de nos cours, développer un jeu en SFML et en y intégrant deux autres bibliothèques. J'ai donc choisi d'intégrer des cartes avec Tmxlite et de stocker mes informations de niveau dans un fichier XML.
+À partir du thème " -00- ", nous avons dû pendant trois semaines, en parallèle de nos cours, développer un jeu en SFML et en y intégrant deux autres bibliothèques. J'ai donc choisi d'intégrer des cartes avec Tmxlite et de stocker mes informations de niveau dans un fichier XML.
 
 
 ### Principe : 
-Vous incarnez un petit héro qui commence à évoluer dans un monde en ASCII plutot basique. Votre but est de retrouver les gemmes arc-en-ciel qui vous permettrons de faire évoluer et d'améliorer les graphismes de votre monde. Attention certains objets ne sont utilisables qu'à certain niveau de graphisme !
+Vous incarnez un petit héros qui commence à évoluer dans un monde en ASCII plutôt basique. Votre but est de retrouver les gemmes arc-en-ciel qui vous permettent de faire évoluer et d'améliorer les graphismes de votre monde. Attention certains objets ne sont utilisables qu'à certains niveaux de graphisme !
 
 
 ![ecran2petit](https://user-images.githubusercontent.com/43514153/47257997-61c02c80-d495-11e8-9c6c-b874c5313a5f.png)
@@ -17,7 +17,7 @@ Vous incarnez un petit héro qui commence à évoluer dans un monde en ASCII plu
 
 
 ### Commandes :
-Pour se déplacer utiliser les flèches directionnelles. Pour interagir avec un objet appuyer sur la barre espace.
+Pour se déplacer, utiliser les flèches directionnelles. Pour interagir avec un objet, appuyer sur la barre espace.
 
 
 
